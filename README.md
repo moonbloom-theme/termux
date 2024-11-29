@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Moonbloom for <a href="https://termux.dev/en/">Termux</a></h1>
   <p>Easy on the eyes, with a hint of nostalgia and warmth</p>
-  <span><a href="#">Github</a> • <a href="#">Website</a> • <a href="#">Discussions</a></span>
+  <span><a href="https://github.com/moonbloom-theme/moonbloom">Github</a> • <a href="https://moonbloom.teplostanski.dev">Website</a> • <a href="https://github.com/orgs/moonbloom-theme/discussions">Discussions</a></span>
 </div>
 
 <br/>

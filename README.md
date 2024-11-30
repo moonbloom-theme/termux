@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Moonbloom for <a href="https://termux.dev/en/">Termux</a></h1>
-  <p>Easy on the eyes, with a hint of nostalgia and warmth</p>
+  <p>Gentle on the eyes, evoking the cozy tranquility of a serene night.</p>
   <span><a href="https://github.com/moonbloom-theme/moonbloom">Github</a> • <a href="https://moonbloom.teplostanski.dev">Website</a> • <a href="https://github.com/orgs/moonbloom-theme/discussions">Discussions</a></span>
 </div>
 

@@ -8,7 +8,7 @@
 
 > [Termux](https://termux.dev/en/) is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required. A minimal base system is installed automatically - additional packages are available using the APT package manager.
 
-<img width="720px" src="./screen-1-1-0.png">
+<img width="720px" src="./screen.png">
 
 ## Install
 See [INSTALL.md](./INSTALL.md)
@@ -29,6 +29,6 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 </br>
 
 <p align="center">
-  <img alt="GitHub License" src="https://img.shields.io/github/license/moonbloom-theme/termux?style=flat-square&labelColor=%231e1f27&color=%23E8C87E">
-  <img alt="GitHub Release" src="https://img.shields.io/github/v/release/moonbloom-theme/termux?include_prereleases&display_name=release&style=flat-square&labelColor=%231e1f27&color=%23E8C87E">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/moonbloom-theme/termux?style=flat-square&labelColor=%231D1E27&color=%23E8C87E">
+  <img alt="GitHub Release" src="https://img.shields.io/github/v/release/moonbloom-theme/termux?include_prereleases&display_name=release&style=flat-square&labelColor=%231D1E27&color=%23E8C87E">
 </p>
